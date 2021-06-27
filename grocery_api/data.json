@@ -1,0 +1,23 @@
+[
+  {
+    "model": "api.countries",
+    "pk": 1,
+    "fields": {
+      "country_name": "Brazil"
+    }
+  },
+  {
+    "model": "api.countries",
+    "pk": 2,
+    "fields": {
+      "country_name": "Portugal"
+    }
+  },
+  {
+    "model": "api.countries",
+    "pk": 3,
+    "fields": {
+      "country_name": "Ireland"
+    }
+  }
+]
